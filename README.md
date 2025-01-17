@@ -23,7 +23,7 @@ To run the code in this repository, you will need the following dependencies:
 
 ### Setting up the Testing Stand (Optional)
 
-If you wish to replicate the testing setup, you can use the provided CAD files to build the testing stand. The CAD files are located in the `cad_files/` directory. These files are compatible with SolidWorks 2022.
+If you wish to replicate the testing setup, you can use the provided CAD files to build the testing stand. The CAD files are located in the `TestingBench/` directory. These files are compatible with SolidWorks 2022.
 
 ## Dataset
 
