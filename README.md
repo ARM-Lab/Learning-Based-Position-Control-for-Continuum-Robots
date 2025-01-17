@@ -1,4 +1,4 @@
-# Learning-Based-Position-Control-for-Continuum-Robots
+# Learning Based Position Control for Continuum Robots
 
 
 This repository contains the dataset, CAD files for the testing stand, and the code used to train a Feedforward Neural Network (FFNN) for controlling a continuum robot. The work presented in this repository is part of a research paper on the application of deep learning techniques in controlling the movement of continuum robots.
