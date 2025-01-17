@@ -31,7 +31,7 @@ The dataset used for training contains 30 000 action-state pairs. Actions are va
 
 ## CAD Files
 
-The CAD files of the testing stand are stored in the `Cad_files/` directory. These files describe the physical layout and configuration of the stand, including the actuators, and robot parts used during the experiment.
+The CAD files of the testing stand are stored in the `TestingBench/` directory. These files describe the physical layout and configuration of the stand, including the actuators, and robot parts used during the experiment.
 
 
 ## License
@@ -45,8 +45,3 @@ If you use this repository or any part of the dataset, CAD files, or code in you
 ```
 *will be added after succesful review
 ```
-
-## Acknowledgments
-
-- [Acknowledgment 1]
-- [Acknowledgment 2]
