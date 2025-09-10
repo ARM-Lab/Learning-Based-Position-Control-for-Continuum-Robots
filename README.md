@@ -43,5 +43,15 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 If you use this repository or any part of the dataset, CAD files, or code in your work, please cite the following paper:
 
 ```
-*will be added after succesful review
+@INPROCEEDINGS{11047513,
+  author={Jan Sincak, Peter and Kelemen, Michal and Varga, Martin and Virgala, Ivan},
+  booktitle={2025 25th International Conference on Process Control (PC)}, 
+  title={Learning-Based Position Control for Continuum Robots}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Training;Supervised learning;Robot vision systems;Process control;Position control;Inspection;Position measurement;Trajectory;Continuum robots;Material properties;cable-driven robots;positional controller;continuum robots;supervised learning},
+  doi={10.1109/PC65047.2025.11047513}}
+
 ```
